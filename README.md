@@ -1,5 +1,5 @@
 # Honors-by-Contract Problems
-Problems from MATH 423 (Probability) and 425 (Statistics) completed as part of my Honors-by-Contract at the University of Tennessee. I wrote all of these problems in LaTex myself, but I have not included that code here. Note that some of the problems were not proofs that I wrote myself, I simply copied them for understanding. I have indicated in the lists below which ones are of my original work and which ones were copied from the following source:
+Problems from MATH 423 (Probability) and 425 (Statistics) completed as part of my Honors-by-Contract at the University of Tennessee with Dr. Balram Rajput. I wrote all of these problems in LaTex myself, but I have not included that code here. Note that some of the problems were not proofs that I wrote myself, I simply copied them for understanding. I have indicated in the lists below which ones are of my original work and which ones were copied from the following source:
 
 R. J. Larsen and M. L. Marx, *An Introduction to Mathematical Statistics and Its Applications*, 5th ed. Boston, MA: Prentice Hall, 2012.
 
@@ -20,3 +20,9 @@ All problems for MATH 423 (Probability) are located in the *MATH_423* repository
 
 ## 425 Problems
 All problems for MATH 425 are located in the *MATH_425* repository
+1. **HBC1_MATH425.pdf**
+  - My original work
+2. **HBC2_MATH425.pdf**
+  - My original work, with some assistance from Dr. Rajput
+3. **HBC3_MATH425.pdf**
+  - My original work
